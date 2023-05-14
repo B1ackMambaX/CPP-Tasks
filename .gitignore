@@ -1,0 +1,9 @@
+**/.DS_Store
+**/.idea/
+**/.cmake/
+**/CMakeFiles/
+**/Testing/
+**/CMakeCache.txt
+**/Makefile
+**/.cmake
+**/cmake_install.cmake
